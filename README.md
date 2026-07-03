@@ -17,7 +17,7 @@
 - 总步数：1675（计算：67张 × 10次重复 × 10个epoch ÷ batch size 4）  
 - Epochs：10  
 - Batch size：4  
-- 学习率：5.00e-05  
+- 学习率：5e-05  
 - 优化器：AdamW8bit  
 - 精度：BF16  
 - LoRA（Rank）：16  
