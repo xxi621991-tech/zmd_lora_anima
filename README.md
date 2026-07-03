@@ -20,7 +20,7 @@
 - 学习率：5.00e-05  
 - 优化器：AdamW8bit  
 - 精度：BF16  
-- LoRA 秩（Rank）：16  
+- LoRA（Rank）：16  
 - 硬件：NVIDIA GeForce RTX 5060（8GB VRAM，训练时功耗约24W / 145W，温度约51°C）
 
 ---
@@ -38,9 +38,6 @@
 - 仅建议用于**角色**生成任务。
 
 <img width="1248" height="665" alt="image" src="https://github.com/user-attachments/assets/d0a394d9-c08b-45f2-9bb5-b7876792c22e" />
-```md
-## LoRA 训练过程简要分析
-
 ### 1. Loss 收敛情况
 - `loss/average` 整体呈稳定下降趋势，从约 **0.07 → 0.0476**，说明模型持续学习并逐步收敛。
 - 下降过程平滑，未出现明显震荡或发散，训练稳定性较好。
