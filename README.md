@@ -58,4 +58,10 @@
 ### 5. 结论
 - 训练过程稳定，无明显过拟合或崩溃迹象。
 
+## 图片展示
+<img width="896" height="1536" alt="ComfyUI_temp_hdtyv_00003_" src="https://github.com/user-attachments/assets/61028f7c-e817-44ac-b7b0-fa2a0dcf688d" />
+<img width="896" height="1536" alt="ComfyUI_temp_qhple_00003_" src="https://github.com/user-attachments/assets/56904510-5605-46cc-83f8-abd80f3c6aaa" />
+<img width="896" height="1536" alt="ComfyUI_temp_tthpx_00005_" src="https://github.com/user-attachments/assets/661ebd14-3087-4817-9d66-324faefc8a46" />
+<img width="896" height="1536" alt="ComfyUI_temp_tthpx_00001_" src="https://github.com/user-attachments/assets/d5a26080-7ed3-4b8d-b3ff-abaaad58b17c" />
+
 
